@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.TetrisWindow.resources
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Release\Tetris.exe.manifest
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Release\Tetris.application
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.exe.manifest
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.application
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Release\Tetris.Help.resources

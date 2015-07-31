@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+c:\users\user\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.TetrisWindow.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.application
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\GameEssentials.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\GameEssentials.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Help.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.application
